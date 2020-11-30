@@ -1,0 +1,12 @@
+C:\Users\ACER\source\repos\UserApi\UserApi.Data\bin\Debug\netstandard2.0\UserApi.Data.deps.json
+C:\Users\ACER\source\repos\UserApi\UserApi.Data\bin\Debug\netstandard2.0\UserApi.Data.dll
+C:\Users\ACER\source\repos\UserApi\UserApi.Data\obj\Debug\netstandard2.0\UserApi.Data.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\UserApi\UserApi.Data\obj\Debug\netstandard2.0\UserApi.Data.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\UserApi\UserApi.Data\obj\Debug\netstandard2.0\UserApi.Data.AssemblyInfo.cs
+C:\Users\ACER\source\repos\UserApi\UserApi.Data\obj\Debug\netstandard2.0\UserApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\UserApi\UserApi.Data\bin\Debug\netstandard2.0\UserApi.Data.pdb
+C:\Users\ACER\source\repos\UserApi\UserApi.Data\bin\Debug\netstandard2.0\UserApi.Core.dll
+C:\Users\ACER\source\repos\UserApi\UserApi.Data\bin\Debug\netstandard2.0\UserApi.Core.pdb
+C:\Users\ACER\source\repos\UserApi\UserApi.Data\obj\Debug\netstandard2.0\UserApi.Data.csproj.CopyComplete
+C:\Users\ACER\source\repos\UserApi\UserApi.Data\obj\Debug\netstandard2.0\UserApi.Data.dll
+C:\Users\ACER\source\repos\UserApi\UserApi.Data\obj\Debug\netstandard2.0\UserApi.Data.pdb

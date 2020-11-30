@@ -1,0 +1,9 @@
+C:\Users\ACER\source\repos\UserApi\UserApi.Core\bin\Debug\netstandard2.0\UserApi.Core.deps.json
+C:\Users\ACER\source\repos\UserApi\UserApi.Core\bin\Debug\netstandard2.0\UserApi.Core.dll
+C:\Users\ACER\source\repos\UserApi\UserApi.Core\obj\Debug\netstandard2.0\UserApi.Core.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\UserApi\UserApi.Core\obj\Debug\netstandard2.0\UserApi.Core.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\UserApi\UserApi.Core\obj\Debug\netstandard2.0\UserApi.Core.AssemblyInfo.cs
+C:\Users\ACER\source\repos\UserApi\UserApi.Core\bin\Debug\netstandard2.0\UserApi.Core.pdb
+C:\Users\ACER\source\repos\UserApi\UserApi.Core\obj\Debug\netstandard2.0\UserApi.Core.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\UserApi\UserApi.Core\obj\Debug\netstandard2.0\UserApi.Core.dll
+C:\Users\ACER\source\repos\UserApi\UserApi.Core\obj\Debug\netstandard2.0\UserApi.Core.pdb
